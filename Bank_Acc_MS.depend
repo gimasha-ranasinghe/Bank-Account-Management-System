@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1737122481 source:c:\users\user\desktop\c_projects\bank_acc_ms\bank.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank.h"
+
+1737125974 c:\users\user\desktop\c_projects\bank_acc_ms\bank.h
+
+1737122453 source:c:\users\user\desktop\c_projects\bank_acc_ms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank.h"
+
